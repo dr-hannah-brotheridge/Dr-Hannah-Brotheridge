@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I'm Dr. Hannah Brotheridge 👋
+### Clinical AI Architect | Applied AI Engineer
 
-<!--
-**dr-hannah-brotheridge/Dr-Hannah-Brotheridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I bridge the gap between clinical risk management and deterministic LLM behavior. Having an MBChB background, I design, architect, and evaluate guardrailed AI systems for healthcare.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack & Domain Expertise
+- **AI Orchestration:** Prompt Architecture, Multi-State Machine Design, Core LLM Evaluation Metrics (Sensitivity/Specificity/F1)
+- **Clinical Integration:** DICOM/PACS Workflows, Image Annotation Modalities, Algorithmic Bias Mitigation
+- **Languages & Frameworks:** Python, Streamlit, HTML/CSS/JS (Progressive Web Apps)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Active Projects
+- **SignalHealth Architecture:** A highly bounded, deterministic multi-state prompt engine for user health patterns and tracking and efficient doctor check-ups.
+- **MedList PWA:** A light, user-centric progressive web app for patient-friendly medication compliance, information and collation.
